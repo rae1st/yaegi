@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  [<a href="https://github.com/moshdevs/yaegi/blob/master/guide/docs.md">📖 Docs</a>] 
-  [<a href="https://github.com/moshdevs/yaegi/blob/master/.github/CONTRIBUTING.md">✨ Contribution</a>] 
+  [<a href="https://github.com/rae1st/yaegi/blob/master/guide/docs.md">📖 Docs</a>] 
+  [<a href="https://github.com/rae1st/yaegi/blob/master/.github/CONTRIBUTING.md">✨ Contribution</a>] 
   [<a href="https://pypi.org/project/yaegi/">⬇️ PyPI</a>] 
 </p>
 
@@ -96,7 +96,7 @@ yaegi dasha --date 1990-05-15 --time 14:30 --latitude 28.61 --longitude 77.21
 ## 🛠️ Development
 
 ```bash
-git clone https://github.com/moshdevs/yaegi
+git clone https://github.com/rae1st/yaegi
 cd yaegi
 pip install -e .
 ```
@@ -138,4 +138,4 @@ MIT License – see [LICENSE](LICENSE).
 
 ---
 
-⭐ [Star us on GitHub](https://github.com/moshdevs/yaegi) if you like the project!  
+⭐ [Star us on GitHub](https://github.com/rae1st/yaegi) if you like the project!  
