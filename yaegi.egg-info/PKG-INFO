@@ -2,8 +2,8 @@ Metadata-Version: 2.4
 Name: yaegi
 Version: 0.1.0
 Summary: A comprehensive Vedic Astrology (Jyotish) library for Python
-Author-email: moshdevs <contact@raeist.dev>
-Maintainer-email: moshdevs <contact@raeist.dev>
+Author-email: raeist <contact@raeist.dev>
+Maintainer-email: raeist <contact@raeist.dev>
 License: MIT
 Project-URL: Homepage, https://github.com/yaegi/yaegi
 Project-URL: Documentation, https://yaegi.readthedocs.io
