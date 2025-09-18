@@ -8,8 +8,8 @@ version = "0.1.0"
 description = "A comprehensive Vedic Astrology (Jyotish) library for Python"
 readme = "README.md"
 license = { text = "MIT" }
-authors = [{ name = "moshdevs", email = "contact@raeist.dev" }]
-maintainers = [{ name = "moshdevs", email = "contact@raeist.dev" }]
+authors = [{ name = "raeist", email = "contact@raeist.dev" }]
+maintainers = [{ name = "raeist", email = "contact@raeist.dev" }]
 keywords = ["astrology", "vedic", "jyotish", "kundali", "horoscope", "panchang"]
 classifiers = [
     "Development Status :: 4 - Beta",
