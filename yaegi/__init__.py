@@ -1,6 +1,6 @@
 __version__ = "0.1.0"
-__author__ = "raeist"
-__email__ = "contact@raeist.dev"
+__author__ = "Waris"
+__email__ = "mail@waris.lol"
 __license__ = "MIT"
 __description__ = "A comprehensive Vedic Astrology (Jyotish) library for Python"
 
